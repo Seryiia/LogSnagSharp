@@ -1,0 +1,12 @@
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\bin\Debug\net5.0\LogSnag.deps.json
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\bin\Debug\net5.0\LogSnag.dll
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\bin\Debug\net5.0\ref\LogSnag.dll
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\bin\Debug\net5.0\LogSnag.pdb
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.AssemblyInfoInputs.cache
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.AssemblyInfo.cs
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.csproj.CoreCompileInputs.cache
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.dll
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\ref\LogSnag.dll
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.pdb
+C:\Users\Kyte\Documents\Projects\LogSnag\LogSnag\obj\Debug\net5.0\LogSnag.csproj.AssemblyReference.cache

@@ -7,7 +7,7 @@ namespace LogSnag
 {
     public class LogSnag
     {
-        private const String LOGSNAG_URL = "https://api.logsnag.com/v1/log";
+        private readonly String LOGSNAG_URL = "https://api.logsnag.com/v1/log";
         private String AuthorizationToken { get; }
         private String? Project { get; set; }
         
