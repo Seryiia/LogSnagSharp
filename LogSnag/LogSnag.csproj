@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Seryiia</Authors>
+    <Company />
+    <Product />
+    <PackageTags>LogSnag</PackageTags>
+    <NeutralLanguage></NeutralLanguage>
+    <Version>1.0</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Seryiia/LogSnagSharp</RepositoryUrl>
+    <Description>LogSnag Integration for C#</Description>
+  </PropertyGroup>
+
+</Project>

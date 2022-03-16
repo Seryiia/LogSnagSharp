@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSnag", "LogSnag\LogSnag.csproj", "{089461DD-A47B-4B42-99AE-49F60B8A2816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogSnagTest", "LogSnagTest\LogSnagTest.csproj", "{5F9C259C-EBB1-4B1E-918E-BD87B0DA69ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089461DD-A47B-4B42-99AE-49F60B8A2816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089461DD-A47B-4B42-99AE-49F60B8A2816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089461DD-A47B-4B42-99AE-49F60B8A2816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089461DD-A47B-4B42-99AE-49F60B8A2816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F9C259C-EBB1-4B1E-918E-BD87B0DA69ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9C259C-EBB1-4B1E-918E-BD87B0DA69ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9C259C-EBB1-4B1E-918E-BD87B0DA69ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9C259C-EBB1-4B1E-918E-BD87B0DA69ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D626B222-257F-4F8F-A205-B6090D68C443}
+	EndGlobalSection
+EndGlobal
